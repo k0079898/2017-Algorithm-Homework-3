@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507131345 source:c:\users\user\desktop\algo\hw3.t\main.c
+	<time.h>
+	<stdio.h>
+	<limits.h>
+
